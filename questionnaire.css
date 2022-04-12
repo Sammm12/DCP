@@ -1,0 +1,40 @@
+/* DCP+ Questionnaire Style Sheet */
+
+body {
+    background: linear-gradient(180deg, #FFBB00 18.75%, black 84.9%);
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    top: 80px;
+    left: 517px; 
+    background-color: rgba(51, 51, 51, 0.2);
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 94px;
+    align-items: center;
+}
+
+#questionnaire {
+    background: #FFEAC1;
+}
+
+form {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+label {
+    font-weight: 200;
+    font-size: 28px;
+}
+
