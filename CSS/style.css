@@ -1,10 +1,26 @@
-/* body {
+body {
     background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
-} */
+    background-attachment: fixed;
+}
+
+h5 {
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: #FFBB00;
+}
 
 .card {
-    background-color: #FFBB00;
-    margin-top: 25px
+    background-color: #FFEAC1;
+    margin-top: 25px;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+#addOne {
+    opacity: 80%;
 }
 
 .row {
@@ -56,8 +72,15 @@
 
 
 .list-group-item {
-    background-color: #e6a800;
-    border-color: #e6a800;
+    background-color: #FFEAC1;
+    border-color: #FFEAC1;
+}
+
+.table{
+    text-align: center;
+    vertical-align: middle;
+    border-color: #FFEAC1;
+
 }
 
 .navbar-brand {
