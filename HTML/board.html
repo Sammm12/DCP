@@ -44,19 +44,24 @@
 
             </script>
 
-
-
     </head>
     <body>
 
-        <nav class="navbar navbar-light bg-light">
+
+
+        <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
-                <img src="../Res/Images/arrow-left-circle.svg" width="32" height="32">
-                <a class="navbar-brand" href="#">
-                    <img src="../Res/Images/Logo.svg" alt="" width="250" height="80" class="d-inline-block align-text-center">
+                <a id="backbtn" href="../HTML/index.html">
+                    <img src="../Res/Images/arrow-left-circle.svg" width="32" height="32">
                 </a>
+                <a class="navbar-brand" href="#">
+                    <img src="../Res/Images/Logo.svg" alt="" width="250" height="80">
+                </a>
+              <div class="collapse navbar-collapse">
+                  <p id="user">Hello </br> Gerardo Vargas-Hernandez!</p>
+              </div>
             </div>
-        </nav>
+          </nav>
 
 
 
@@ -67,36 +72,87 @@
                     <div class="card-body">
                         <h5 class="card-title text-center">Spring 2022</h5>
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">An item</li>
-                        <li class="list-group-item">A second item</li>
-                        <li class="list-group-item">A third item</li>
-                        <li class="list-group-item">A fourth item</li>
-                        <li class="list-group-item">A fifth item</li>
-                        <li class="list-group-item">A sixth item</li>
-                    </ul>
+                    
+                    <table class="table table-bordered">
+                        <thead> </thead>
+                        <tbody>
+                            <tr>
+                                <th>Course</th>
+                                <th>Credit</th>
+                            </tr>
+                            <tr>
+                                <td>COMM 100</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 273</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 289</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 229</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 329</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 334</td>
+                                <td>3</td>
+                            </tr>
+                        </tbody>
+                      </table>
                 </div>
             </div>
 
 
             <div id="proto1" class="col">
-                <div class="card">
+                <div onclick="location.href='../HTML/ui-semesterboard.html';" class="card">
                     <div class="card-body">
                         <h5 class="card-title text-center">Spring 2022</h5>
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">An item</li>
-                        <li class="list-group-item">A second item</li>
-                        <li class="list-group-item">A third item</li>
-                        <li class="list-group-item">A fourth item</li>
-                        <li class="list-group-item">A fifth item</li>
-                        <li class="list-group-item">A sixth item</li>
-                    </ul>
+                    <table class="table table-bordered">
+                        <thead> </thead>
+                        <tbody>
+                            <tr>
+                                <th>Course</th>
+                                <th>Credit</th>
+                            </tr>
+                            <tr>
+                                <td>COMM 100</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 273</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 289</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 229</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 329</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 334</td>
+                                <td>3</td>
+                            </tr>
+                        </tbody>
+                      </table>
                 </div>
                 <img onclick="removeThis()" class="remOverlay" src="../Res/Images/dash-circle-fill.svg" width="32" height="32" color="white">
             </div>
         
-
+            ‎
 
 
             <div id="addOne" class="col">
@@ -106,14 +162,39 @@
                         <h5 class="card-title text-center placeholder"></h5>
                         <!-- <p class="card-text text-center">some shit</p> -->
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item placeholder">‎</li>
-                        <li class="list-group-item placeholder">‎</li>
-                        <li class="list-group-item placeholder">‎</li>
-                        <li class="list-group-item placeholder">‎</li>
-                        <li class="list-group-item placeholder">‎</li>
-                        <li class="list-group-item placeholder">‎</li>
-                    </ul>
+                    <table class="table table-bordered">
+                        <thead> </thead>
+                        <tbody>
+                            <tr>
+                                <th>‎</th>
+                                <th>‎</th>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                            <tr>
+                                <td>‎</td>
+                                <td>‎</td>
+                            </tr>
+                        </tbody>
+                      </table>
                 </div>
                 <!-- <div class="overlay"></div> -->
                 <img onclick="myFunction()" class="overlay" src="../Res/Images/plus-circle-fill.svg" width="80" height="80" color="white">
@@ -122,7 +203,8 @@
 
         </div>
 
-        <button type="button" class="btn btn-outline-secondary">Export to .csv</button>
+        <button id="rightBtn" type="button" class="btn btn-warning">Export to .csv</button>
+        <button id="leftBtn" type="button" class="btn btn-outline-warning disabled">Total Credits: 1</button>
         
 
     </body>
