@@ -47,14 +47,21 @@ form {
     font-family: 'EB Garamond'; 
     font-style: italic;
     text-align: center;
-    /* position:relative;
+    position:relative;
     width: 298.2px;
     height: 200px;
     left: 730.44px;
-    top: 356px; */
+    top: 356px;
     
 }
 
 .sun{
-    content: url(../Res/Images/sunset.jpeg);   
+    content: url(../Res/Images/sunset.jpeg);    
+    position: absolute;
+    width: 300px;
+    height: 575px;
+    left: 312.97px;
+    top: 326px;
+
+    
 }   
