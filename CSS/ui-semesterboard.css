@@ -3,6 +3,7 @@
 
     height: 1024px;
     background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
+    background-attachment: fixed;
 }
 
 .Table {
@@ -119,6 +120,37 @@
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+
+.navbar {
+    background-color: #FFBB00;
+    height: 3em;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 2em;
+    transform: translate(-50%, -50%);
+}
+
+#backbtn {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+}
+
+#user {
+    position: absolute;
+    top: 1.5em;
+    right: 2em;
+    text-align: right;
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
 }
 
 input[type=text]{
