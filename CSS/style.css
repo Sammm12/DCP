@@ -1,10 +1,54 @@
-/* body {
+body {
     background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
-} */
+    background-attachment: fixed;
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+h5 {
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: #FFBB00;
+    height: 3em;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 2em;
+    transform: translate(-50%, -50%);
+}
+
+#backbtn {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+}
+
+#user {
+    position: absolute;
+    top: 1.5em;
+    right: 2em;
+    text-align: right;
+}
+
 
 .card {
-    background-color: #FFBB00;
-    margin-top: 25px
+    background-color: #FFEAC1;
+    margin-top: 25px;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+#addOne {
+    opacity: 80%;
 }
 
 .row {
@@ -56,20 +100,32 @@
 
 
 .list-group-item {
-    background-color: #e6a800;
-    border-color: #e6a800;
+    background-color: #FFEAC1;
+    border-color: #FFEAC1;
 }
 
-.navbar-brand {
-    font-size: 25px;
-    margin: auto;
+.table{
+    text-align: center;
+    vertical-align: middle;
+    border-color: #FFEAC1;
 
 }
 
-.btn {
+
+#rightBtn {
     float: right;
-    width: 150px;
+    width: 100px;
     margin-right: 45px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+#leftBtn {
+    float: left;
+    width: 120px;
+    margin-left: 45px;
+    margin-bottom: 40px;
+    border-radius: 20px;
 }
 
 @keyframes append-animate {
