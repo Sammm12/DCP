@@ -9,6 +9,7 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="../CSS/signup.css" />
+    <script src="/JS/signup.js"></script>
 </head>
 
 <body>
@@ -24,29 +25,31 @@
             </div>
             <div class="col-md-6">
                 <div class="card-body">
-                    <form onsubmit="return passwordsMatch()" id="signupform" method="GET" action="">
-                        <fieldset id="login">
+                    <form id="signupform" method="post"
+                        action="javascript:validateSignup(signupEmail.value, signupPassword.value, signupPasswordConfirm.value)">
+                        <fieldset id="signup">
                             <div class="row p-5">
                                 <h5>Signup</h5>
-                                <input type="text" id="signupFormUsername" name="signupUsername" placeholder="Username"
+                                <input type="email" id="signupEmail" name="signupEmail" placeholder="Email" required
+                                    class="mb-2" />
+                                <input type="password" id="signupPassword" name="signupPassword" placeholder="Password"
                                     required class="mb-2" />
-                                <input type="password" id="signupPassword" name="signupPass" placeholder="Password"
-                                    required class="mb-2" />
-                                <input type="password" id="signupPassword_confirm" name="signupPass_confirm"
+                                <input type="password" id="signupPasswordConfirm" name="signupPasswordConfirm"
                                     placeholder="Confirm Password" required class="mb-2" />
                                 <input type="submit" value="Signup" class="btn btn-sm btn-outline-primary rounded" />
                             </div>
                         </fieldset>
                     </form>
 
-                    <form onsubmit="" id="signInForm" method="GET" action="">
-                        <fieldset id="signup">
+                    <form onsubmit="return validateLogin(signInEmail.value, signInPassword.value)" id="signInForm"
+                        method="get">
+                        <fieldset id="signIn">
                             <div class="row p-5">
                                 <h5>Login</h5>
-                                <input type="text" id="signupFormUsername" name="signupUsername" placeholder="Username"
-                                    required class="mb-2">
-                                <input type="password" id="signupPassword" name="signupPass" placeholder="Password"
+                                <input type="email" id="signInEmail" name="signInEmail" placeholder="Email" required
                                     class="mb-2">
+                                <input type="password" id="signInPassword" name="signInPassword" placeholder="Password"
+                                    required class="mb-2">
                                 <input type="button" value="Forgot Password?"
                                     class="btn btn-sm btn-outline-danger mb-2">
                                 <input type="submit" value="Login" class="btn btn-sm btn-outline-success">
