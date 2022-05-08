@@ -13,8 +13,7 @@
 </head>
 
 <body>
-    <nav class="navbar justify-content-center pt-3">
-        <a href="#" class="navbar-brand">
+    <nav class="navbar justify-content-center pt-3"> <a href="#" class="navbar-brand">
             <img src="../Res/Images/Logo.svg" alt="Logo - Image" width="400" height="100">
         </a>
     </nav>
@@ -26,7 +25,8 @@
             <div class="col-md-6">
                 <div class="card-body">
                     <form id="signupform" method="post"
-                        action="javascript:validateSignup(signupEmail.value, signupPassword.value, signupPasswordConfirm.value)">
+                        onclick="return validateSignup(signupEmail.value, signupPassword.value, signupPasswordConfirm.value)"
+                        action="#">
                         <fieldset id="signup">
                             <div class="row p-5">
                                 <h5>Signup</h5>
