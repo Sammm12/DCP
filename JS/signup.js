@@ -22,9 +22,10 @@ function validateSignup(email, password, passwordVerification) {
         fetch(signUpUrl, requestOptions)
             .then(response => response.text())
             .then(result => console.log(result))
+            .then(alert("User Created"))
+            .then(document.getElementById("signupform").reset())
             .catch(error => console.log('error', error));
     }
-    return true;
 }
 
 function validateLogin(email, password) {
