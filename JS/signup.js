@@ -49,7 +49,7 @@ function validateLogin(email, password) {
                 window.location.href = "http://127.0.0.1:8080/HTML/questionnaire.html";
             } else if (response.ok == false) {
                 alert('user not found');
-                window.location.href = "http://127.0.0.1:8080/HTML/signup.html";
+                window.location.href = "https://sammm12.github.io/DCP/";
             }
 
             document.getElementById("signInForm").reset()
