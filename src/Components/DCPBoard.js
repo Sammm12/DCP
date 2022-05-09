@@ -7,33 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-var calls = 0;
-function myFunction() {
-    if (calls < 6) {
-        const node = document.getElementById('proto1');
-        const clone = node.cloneNode(true);
-        const nodeAdd = document.getElementById('addOne');
-        const cloneAdd = nodeAdd.cloneNode(true);
-        nodeAdd.remove();
-        node.id = "proto" + calls
-        document.getElementById("main").appendChild(clone);
-        document.getElementById("main").appendChild(cloneAdd);
-        calls++;
-    }
-    else if (calls == 6) {
-        const node = document.getElementById('proto');
-        const clone = node.cloneNode(true);
-        const nodeAdd = document.getElementById('addOne');
-        const cloneAdd = nodeAdd.cloneNode(true);
-        nodeAdd.remove();
-        document.getElementById("main").appendChild(clone);
-        calls++;
-    }
-};
-function removeThis() {
-    const element = document.getElementById('proto');
-    element.remove();
-}
+
   function DCPBoard() {
     return (
         <body>
@@ -133,7 +107,7 @@ function removeThis() {
                         </tbody>
                       </table>
                 </div>
-                <img onclick="removeThis()" class="remOverlay" src="./img/dash-circle-fill.svg" width="32" height="32" color="white"/>
+                <img onclick="removeThis()" class="remOverlay" src="../Res/Images/dash-circle-fill.svg" width="32" height="32" color="white"/>
             </div>
 
             ‎

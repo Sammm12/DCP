@@ -1,0 +1,18 @@
+div{
+    background-color: #FFEAC1;
+
+}
+.form-group {
+    text-align: center;
+}
+input[type=text]{
+    background: gray;
+    width: 60%;
+}
+button[type=submit]{
+    float: right;
+}
+label{
+    text-align: center;
+    width: 100%;
+}

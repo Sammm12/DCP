@@ -1,0 +1,153 @@
+body {
+    background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
+    background-attachment: fixed;
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+h5 {
+    font-weight: bolder;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 75%;
+
+}
+
+.navbar {
+    background-color: #FFBB00;
+    height: 3em;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 2em;
+    transform: translate(-50%, -50%);
+}
+
+#backbtn {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+}
+
+#user {
+    position: absolute;
+    top: 1.5em;
+    right: 2em;
+    text-align: right;
+}
+
+
+.card {
+    background-color: #FFEAC1;
+    margin-top: 25px;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+#addOne {
+    opacity: 80%;
+}
+
+.row {
+    margin: 30px;
+}
+
+/* .col img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+} */
+
+.overlay {
+    width: 100%;
+    /* height: 40vh; */
+    position: absolute;
+    margin: auto;
+    /* background-image: url("plus-circle-fill.svg");
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%; */
+     top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.remOverlay {
+    display: none;
+    width: 100%;
+    /* height: 40vh; */
+    position: absolute;
+    margin: auto;
+    top: 10px;
+}
+
+.card:hover + .remOverlay {
+    display: block;
+}
+
+
+.col{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+
+
+.list-group-item {
+    background-color: #FFEAC1;
+    border-color: #FFEAC1;
+}
+
+.table{
+    text-align: center;
+    vertical-align: middle;
+    border-color: #FFEAC1;
+
+}
+
+
+#rightBtn {
+    float: right;
+    width: 100px;
+    margin-right: 45px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+#leftBtn {
+    float: left;
+    width: 120px;
+    margin-left: 45px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+@keyframes append-animate {
+	from {
+		transform: scale(0);
+		opacity: 0;
+	}
+	to {
+		transform: scale(1);
+		opacity: 1;	
+	}
+}
+
+.col {
+	animation: append-animate .3s linear;
+}
