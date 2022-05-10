@@ -11,6 +11,9 @@ function createChild(course, credits) {
     const button = document.createElement("button")
     button.classList.add('btn', 'btn-danger', 'btn-sm');
     button.innerHTML = "-";
+    button.addEventListener("click", function () {
+        document.getElementById("classesHolder").removeChild(outterDiv);
+    });
     outterDiv.appendChild(button);
 
     const innerDiv1 = document.createElement("div");
