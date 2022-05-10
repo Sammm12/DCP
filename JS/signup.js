@@ -45,7 +45,7 @@ function validateLogin(email, password) {
 
     fetch("http://localhost:2400/api/auth/login", requestOptions)
         .then(function (response) {
-            if (response.ok == true) {
+            if (response.ok === false) {
                 window.location.href = "https://sammm12.github.io/DCP/HTML/questionnaire.html";
             } else if (response.ok == false) {
                 alert('user not found');
