@@ -5,124 +5,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>DCP+</title>
-    <!-- <style>
-            [class*="UI-SemesterBoard"]{
-                position: relative;
-               
-                height: 1024px;
-                background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
-            }
 
-            [class*="Table"]{
-                background: #FFEAC1;
-                border-radius: 30px;
-            }
-
-            [class*="DCP+"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 72px;
-                line-height: 94px;
-                align-items: center;
-                text-align: center;
-                color: #000000;
-                background: rgba(51, 51, 51, 0.2);
-            }    
-
-            [class*="TotalCredits"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 24px;
-                line-height: 94px;
-                text-align:start;
-                color: #000000;
-            }  
-            [class*="Greeting"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 24px;
-                line-height: 94px;
-                text-align:end;
-                color: #000000;
-            }  
-            
-            [class*="Course"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 32px;
-                line-height: 42px;
-                align-items: center;
-                text-align: center;
-                width: auto;
-                border: 1px solid #000000;
-                border-left: none;
-            }  
-            [class*="Subheading"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 32px;
-                line-height: 42px;
-                width: auto;
-                align-items: center;
-                text-align: center;
-            } 
-            
-            [class*="Semester"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 32px;
-                line-height: 42px;
-                width: auto;
-                align-items: center;
-                text-align:start;
-            } 
-
-            [class*="ClassCredits"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 32px;
-                line-height: 42px;
-                align-items: center;
-                text-align:center;
-                width: auto;
-                border: 1px solid #000000;
-                border-right: none;
-            }  
-
-            [class*="SemesterCredits"]{
-                font-family: 'EB Garamond';
-                font-style: italic;
-                font-weight: 400;
-                font-size: 32px;
-                line-height: 42px;
-                width: auto;
-                align-items: center;
-                text-align: end;
-            }  
-        </style> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="../CSS/ui-semesterboard.css">
+    <script src="/JS/semesterBoardClassesLogic.js"></script>
 
     <script>
         function on() {
-          document.getElementById("overlay").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
         }
-        
+
         function off() {
             var overlay = document.getElementById('overlay');
             var pop = document.getElementById('pop');
-            pop.addEventListener("click", function(e) {
+            pop.addEventListener("click", function (e) {
                 e.stopPropagation();
             });
-            
-            overlay.addEventListener("click", function() {
+
+            overlay.addEventListener("click", function () {
                 document.getElementById("overlay").style.display = "none";
             });
         }
@@ -139,13 +39,13 @@
             <a class="navbar-brand" href="#">
                 <img src="../Res/Images/Logo.svg" alt="" width="250" height="80">
             </a>
-          <div class="collapse navbar-collapse">
-              <p id="user">Hello </br> Gerardo Vargas-Hernandez!</p>
-          </div>
+            <div class="collapse navbar-collapse">
+                <p id="user">Hello </br> Gerardo Vargas-Hernandez!</p>
+            </div>
         </div>
     </nav>
 
-</br></br></br>
+    </br></br></br>
 
     <div class="container-sm gap-3 Table">
         <div class="row">
@@ -156,26 +56,11 @@
             <div class="col-sm Subheading">Course</div>
             <div class="col-sm Subheading">Credits</div>
         </div>
-        <div class="row">
-            <div class="col-sm Course text-left"><button class="btn btn-danger btn-sm" type="button">-</button> COMM131
-            </div>
-            <div class="col-sm ClassCredits">3</div>
+
+        <div id="classesHolder">
+
         </div>
-        <div class="row">
-            <div class="col-sm Course text-left"><button class="btn btn-danger btn-sm" type="button">-</button> MATH 273
-            </div>
-            <div class="col-sm ClassCredits">4</div>
-        </div>
-        <div class="row">
-            <div class="col-sm Course text-left"><button class="btn btn-danger btn-sm" type="button">-</button> COSC 236
-            </div>
-            <div class="col-sm ClassCredits">4</div>
-        </div>
-        <div class="row">
-            <div class="col-sm Course text-left"><button class="btn btn-danger btn-sm" type="button">-</button> TSEM 102
-            </div>
-            <div class="col-sm ClassCredits">4</div>
-        </div>
+
         <div class="row">
             <div class="col text-center">
                 <div><button class="btn btn-success btn-sm" onclick="on();" type="button">+</button></div>
@@ -184,26 +69,27 @@
     </div>
 
     <div id="overlay" onclick="off()">
-    <div id="pop" class="card position-absolute top-50 start-50 translate-middle text-center" style="background-color: #FFEAC1; width: 30rem;">
-        <div  class="card-body">
-            <h5 class="card-title">Enter Course Information</h5>
-            <form class = "form-inline" role = "form">
-                <div class = "form-group row">
-                    <label class ="col-sm-2 col-form-label" for="course">Course</label>
-                    <div class="col-sm-10">
-                        <input type = "text" class="form-control" id="course">
+        <div id="pop" class="card position-absolute top-50 start-50 translate-middle text-center"
+            style="background-color: #FFEAC1; width: 30rem;">
+            <div class="card-body">
+                <h5 class="card-title">Enter Course Information</h5>
+                <form class="form-inline" role="form" action="javascript:addClass(course.value, credits.value)">
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" for="course">Course</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="course">
+                        </div>
                     </div>
-                </div>
-                <div class = "form-group row">
-                   <label class ="col-sm-2 col-form-label" for="credits">Credits</label>
-                   <div class="col-sm-10">
-                        <input type = "text" class="form-control" id="credits">
-                   </div>
-                </div>
-                <button type="submit" class="btn btn-primary my-1">Add</button>
-             </form>
-          </div>
-    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" for="credits">Credits</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="credits">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary my-1">Add</button>
+                </form>
+            </div>
+        </div>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
