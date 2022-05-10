@@ -1,0 +1,4734 @@
+[
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "TSEM",
+    "taken": false,
+    "name": "Towson Seminar, Varied Topics",
+    "group": "Core 1",
+    "prereq": []
+  },
+  {
+    "code": "190",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "TSEM",
+    "taken": false,
+    "name": "Honors Towson Seminar",
+    "group": "Core 1",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing for a Liberal Education ",
+    "group": "Core 2",
+    "prereq": []
+  },
+  {
+    "code": "190",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Honors Writing Seminar",
+    "group": "Core 2",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECON",
+    "taken": false,
+    "name": "Statistics for Business and Economics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Mathematical Ideas",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Transition to Algebra for Applications",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "111",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Finite Mathematics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "115",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Basic Mathematics for the Sciences",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "119",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Pre-Calculus ",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Mathematical Concepts & Structure II ",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "211",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Calculus for Application",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "231",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Basic Statistics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "233",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Honors Basic Statistics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "237",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Elementary Biostatistics ",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "263",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Discrete Mathematics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "273",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Calculus I ",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "274",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Calculus II ",
+    "group": "Core 3",
+    "prereq": 
+	[
+		{
+			"code":"273",
+			"Subject":"MATH"
+		}
+	]
+  },
+  {
+    "code": "283",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Honors Calculus I ",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "293",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Honors Seminar: Mathematics",
+    "group": "Core 3",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "2D Process",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "106",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Drawing for Non-Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "107",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Ceramics for Non-Art Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Sculpture for Non-Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "113",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Painting for Non-Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "117",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Printmaking for Non-Majors ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "146",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Honors Drawing for Non-Art Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "147",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Silkscreen Printmaking for Non-Art Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "156",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Artist Books for Non-Art Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "157",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Letterpress for Non-Art Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "161",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Digital Object Design for Non-Art Majors ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COSC",
+    "taken": false,
+    "name": "Computers & Creativity",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "225",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COSC",
+    "taken": false,
+    "name": "Honors Introduction to Lego Robotics",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "106",
+    "labCourse": [],
+    "credits": "N",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Fundamentals of Dance Movement ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "235",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Dance Composition",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "110",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EMF",
+    "taken": false,
+    "name": "Digital Storytelling for Non-Majors ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "283",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Introduction to Creative Writing",
+    "group": "Core 4",
+    "prereq": [
+		{
+			"code":"102",
+      "subject":"ENGL"
+		}
+	]
+  },
+  {
+    "code": "311",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing Poetry",
+    "group": "Core 4",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "312",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing Fiction",
+    "group": "Core 4",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "315",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing Creative Non-Fiction ",
+    "group": "Core 4",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "332",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Honors Writing Fiction",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "225",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Creativity & Creative Dev",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "IDFA",
+    "taken": false,
+    "name": "Creativity in Arts, Media, and Communication",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Music Theory for Non-Majors",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "116",
+    "labCourse": [],
+    "credits": "N",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Songwriting & Basic Music Comp ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "287",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Creative Music Technology      ",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Acting I",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Honors Acting I",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "142",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Introduction to Theatre Design",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Creating Communities of Action",
+    "group": "Core 4",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Composition & Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Art in Culture",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Art and the Human Body",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "207",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Honors Art History",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "221",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Survey of Western Art I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "222",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Survey of Western Art II",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Elementary Chinese I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Intermediate Chinese I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Chinese Composition & Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "131",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COMM",
+    "taken": false,
+    "name": "Public Speaking",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "132",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COMM",
+    "taken": false,
+    "name": "Honors Public Speaking",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "The Alexander Technique",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Movement Skills for Men",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "130",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Dance and Myth",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "104",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DFST",
+    "taken": false,
+    "name": "American Sign Language I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "114",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DFST",
+    "taken": false,
+    "name": "Honors American Sign Language I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "313",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EMF",
+    "taken": false,
+    "name": "Film History",
+    "group": "Core 5",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Shakespeare for Non-Majors",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "221",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "British Literature to 1798",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "222",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "British Literature Since 1798",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "240",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Classics of the Western Heritage",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "243",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Introduction to Classical Mythology",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "244",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "World Folklore",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "261",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Elements of Poetry",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "263",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Elements of Fiction",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "290",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Honors Seminar: Literature",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FORL",
+    "taken": false,
+    "name": "Swahili Elements I ",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "French Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "French Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "Advanced Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Intermediate",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Composition & Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GRK",
+    "taken": false,
+    "name": "Ancient Greek Elements",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Elements of Hebrew I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Biblical Hebrew I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Hebrew Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Biblical Hebrew III",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Hebrew Composition and Conversation I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Introduction to Ancient Mediterranean Cvl",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of European Civilization Thru 17th C.",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of European Civilization from 17th C.",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "235",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Arts & Humanities",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Composition & Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Composition & Conversation",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Latin Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Latin Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Advanced Readings in Latin I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Intro to Music of the Western Heritage",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "114",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Music, Technology & Culture",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "127",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Elements and History of Rock Music",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Introduction to Philosophy",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "111",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Introduction to Logic",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "221",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Ancient Greek Philosophy",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PORT",
+    "taken": false,
+    "name": "Portuguese Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PORT",
+    "taken": false,
+    "name": "Portuguese Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PORT",
+    "taken": false,
+    "name": "Composition & Conversation in Portuguese",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Exploring Biblical Archeology",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to the Hebrew Bible",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Christianity",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "211",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Jewish Thought",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "325",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Jewish Graphic Novels",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RUSS",
+    "taken": false,
+    "name": "Russian Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RUSS",
+    "taken": false,
+    "name": "Russian Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "250",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SEMS",
+    "taken": false,
+    "name": "Perspectives in Science and Mathematics",
+    "group": "Core 5",
+    "prereq": [
+      {
+        "code": "273",
+        "subject": "MATH"
+      }
+    ]
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish Elements I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish Intermediate I",
+    "group": "Core 5",
+    "prereq": [
+      {
+        "subject": "SPAN",
+        "code": "102"
+      }
+    ]
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Honors Spanish Intermediate I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Composition & Conversation I",
+    "group": "Core 5",
+    "prereq": [
+      {
+        "subject": "SPAN",
+        "code": "202"
+      }
+    ]
+  },
+  {
+    "code": "303",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish for Heritage Speakers I",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "100",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Introduction to Theatre",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "242",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Costume, Dress, & Society",
+    "group": "Core 5",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECON",
+    "taken": false,
+    "name": "Microeconomic Principles",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECON",
+    "taken": false,
+    "name": "Macroeconomic Principles",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECON",
+    "taken": false,
+    "name": "Honors Microeconomic Principles",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECON",
+    "taken": false,
+    "name": "Honors Macroeconomic Principles",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Introduction to Family Studies",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Honors Introduction to Family Studies",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERO",
+    "taken": false,
+    "name": "Introduction to Gerontology",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "237",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Social & Behavioral",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Introduction to Political Science",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Honors Introduction to Political Science",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PSYC",
+    "taken": false,
+    "name": "Introduction to Psychology",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PSYC",
+    "taken": false,
+    "name": "Honors Introduction to Psychology",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Introduction to Sociology",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Honors Introduction to Sociology",
+    "group": "Core 6",
+    "prereq": []
+  },
+  {
+    "code": "161",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ASTR",
+    "taken": false,
+    "name": "The Sky and the Solar System",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "181",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ASTR",
+    "taken": false,
+    "name": "Stars, Galaxies, and the Early Universe",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "117",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Honors Principles of Biology",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "120",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Principles of Biology ",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "191",
+    "labCourse": ["191L"],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Introductory Biology Health Professions",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "192",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Honors Biology Health Professions",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "200",
+    "labCourse": ["200L"],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Biology I:  Cellular Biology & Genetics",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "206",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "BIOLOGY II: INTRODUCTION TO ECOLOGY AND EVOLUTION",
+    "group": "Core 7",
+    "prereq": [
+      {
+        "code":"200",
+        "subject":"BIOL"
+      }
+    ]
+  },
+  {
+    "code": "104",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Intro to Environmental Chemistry",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "115",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Honors Allied Health Professionals I",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "121",
+    "labCourse": ["121L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Chemistry Allied Health Professionals I",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "131",
+    "labCourse": ["131L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "General Chemistry",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "132",
+    "labCourse": ["132L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "General Chemistry II",
+    "group": "Core 7",
+    "prereq": [
+      {
+        "code":"131",
+        "subject":"CHEM"
+      }
+    ]
+  },
+  {
+    "code": "121",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Physical Geology",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "122",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Honors Physical Geology",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHSC",
+    "taken": false,
+    "name": "Physical Science",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "131",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Light and Color",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "143",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Physics of Sound and Music",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "5",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics for Health Sciences ",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "211",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics I Non-Calculus Based",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "212",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics II Non-Calculus Based",
+    "group": "Core 7",
+    "prereq": [
+      {
+        "code": "211",
+        "subject": "PHYS"
+      }
+    ]
+  },
+  {
+    "code": "241",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics I Calculus Based",
+    "group": "Core 7",
+    "prereq": [
+      {
+        "code":"273",
+        "subject":"MATH"
+      }
+    ]
+  },
+  {
+    "code": "242",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics II Calculus Based",
+    "group": "Core 7",
+    "prereq": [
+      {
+        "code":"274",
+        "subject":"MATH"
+      },
+      {
+        "code":"241",
+        "subject":"PHYS"
+      }
+    ]
+  },
+  {
+    "code": "251",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Honor General Physics I Calculus Based",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "252",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Honor General Physics II Calculus Based",
+    "group": "Core 7",
+    "prereq": []
+  },
+  {
+    "code": "212",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ANTH",
+    "taken": false,
+    "name": "Paleoanthropology and Archeology ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "161",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "ASTR",
+    "taken": false,
+    "name": "General Astronomy l ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "162",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "ASTR",
+    "taken": false,
+    "name": "General Astronomy II ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Environmental Biology ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "117",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Honors Principles of Biology",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "120",
+    "labCourse": [],
+    "credits": "m",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Principles of Biology ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "191",
+    "labCourse": ["191L"],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Introductory Biology Health Professions",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "192",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Honors Biology Health Professions",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "200",
+    "labCourse": ["200L"],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Biology I:  Cellular Biology & Genetics",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "206",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "BIOLOGY II: INTRODUCTION TO ECOLOGY AND EVOLUTION",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code":"200",
+        "subject":"BIOL"
+      }
+    ]
+  },
+  {
+    "code": "100",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Chemistry and Current Problems ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "104",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Intro to Environmental Chemistry",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "115",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Honors Allied Health Professionals I",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "121",
+    "labCourse": ["121L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Chemistry Allied Health Professionals I",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "131",
+    "labCourse": ["131L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "General Chemistry",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "132",
+    "labCourse": ["132L"],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "General Chemistry II",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code":"131",
+        "subject":"CHEM"
+      }
+    ]
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Physical Geography ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Volcanoes and Earthquakes ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "120",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Geology of National Parks",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "121",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Physical Geology",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "122",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Honors Physical Geology",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "123",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOL",
+    "taken": false,
+    "name": "Historical Geology",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code":"121",
+        "subject":"GEOL"
+      }
+    ]
+  },
+  {
+    "code": "227",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar:  Biological/Physical Science ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "PHSC",
+    "taken": false,
+    "name": "Physical Science ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "100",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Understanding Physics ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Engineering Mechanics I ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "How Things Work ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "131",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Light and Color",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "143",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Physics of Sound and Music",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "5",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics for Health Sciences",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "211",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics I Non-Calculus Based",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "212",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics II Non-Calculus Based",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code": "211",
+        "subject": "PHYS"
+      }
+    ]
+  },
+  {
+    "code": "220",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Engineering Mechanics II",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "241",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics I Calculus Based",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code":"273",
+        "subject":"MATH"
+      }
+    ]
+  },
+  {
+    "code": "242",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "General Physics II Calculus Based",
+    "group": "Core 8",
+    "prereq": [
+      {
+        "code":"274",
+        "subject":"MATH"
+      },
+      {
+        "code":"241",
+        "subject":"PHYS"
+      }
+    ]
+  },
+  {
+    "code": "251",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Honor General Physics I Calculus Based",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "252",
+    "labCourse": [],
+    "credits": "4",
+    "subject": "PHYS",
+    "taken": false,
+    "name": "Honors General Physics II General Calculus Based ",
+    "group": "Core 8",
+    "prereq": []
+  },
+  {
+    "code": "405",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "AADS",
+    "taken": false,
+    "name": "Research Methods in Adult Disability Studies",
+    "group": "Core 9",
+    "prereq": []
+  },
+  {
+    "code": "440",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "AHLT",
+    "taken": false,
+    "name": "Technical and Professional Issues in Allied Health ",
+    "group": "Core 9",
+    "prereq": []
+  },
+  {
+    "code": "401",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ANTH",
+    "taken": false,
+    "name": "Anthropological Theory",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"207",
+        "subject":"ANTH"
+      }
+    ]
+  },
+  {
+    "code": "351",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ART",
+    "taken": false,
+    "name": "Writing About Art",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"221",
+        "subject":"ANTH"
+      }
+    ]
+  },
+  {
+    "code": "381",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Writing in the Biological Sciences",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BUSX",
+    "taken": false,
+    "name": "Business Communications ",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"202",
+        "subject":"ECON"
+      }
+    ]
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHEM",
+    "taken": false,
+    "name": "Professional Ethics for Scientists",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "300",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COMM",
+    "taken": false,
+    "name": "Research Methods ",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"COMM"
+      },
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "321",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Responding to Dance",
+    "group": "Core 9",
+    "prereq": []
+  },
+  {
+    "code": "422",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ECED",
+    "taken": false,
+    "name": "Writing Techniques for Teachers in ECED",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EDUC",
+    "taken": false,
+    "name": "Writing & Communication Skills for Teacher",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "320",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ELED",
+    "taken": false,
+    "name": "Writing for Elementary Educators",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "377",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EMF",
+    "taken": false,
+    "name": "Broadcast/Film Writing",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"120",
+        "subject":"EMF"
+      }
+    ]
+  },
+  {
+    "code": "313",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Academic Essay",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "316",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing About Literature",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "317",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Writing for Business and Industry",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "318",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Advanced Informational Writing",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "485",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Research Methods in Family Studies",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"101",
+        "subject":"FMST"
+      },
+      {
+        "code":"302",
+        "subject":"FMST"
+      },
+      {
+        "code":"285",
+        "subject":"FMST"
+      }
+    ]
+  },
+  {
+    "code": "320",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FORL",
+    "taken": false,
+    "name": "Language Acquisition ",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "383",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Natural Resources and Society ",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "401",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Growth of Geographic Thought",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]    
+  },
+  {
+    "code": "300",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Introduction to Historical Study",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "315",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Curriculum and Planning",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"222",
+        "subject":"HLTH"
+      },
+      {
+        "code":"221",
+        "subject":"BIOL"
+      },
+      {
+        "code":"222",
+        "subject":"BIOL"
+      },
+      {
+        "code":"121",
+        "subject":"CHEM"
+      }
+    ]
+  },
+  {
+    "code": "351",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Philosophy: The Sport Experience",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "353",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Sport and Society",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "354",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Honors Sport and Society",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "469",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Research Methods in Exercise Science",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"313",
+        "subject":"KNES"
+      },
+      {
+        "code":"367",
+        "subject":"KNES"
+      }
+    ]
+  },
+  {
+    "code": "310",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MATH",
+    "taken": false,
+    "name": "Functions and Modeling for Secondary School Teacher",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"274",
+        "subject":"MATH"
+      },
+      {
+        "code":"265",
+        "subject":"MATH"
+      },
+      {
+        "code":"230",
+        "subject":"SEMS"
+      }
+    ]
+  },
+  {
+    "code": "356",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MCOM",
+    "taken": false,
+    "name": "Feature Writing",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "357",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MCOM",
+    "taken": false,
+    "name": "Public Relations Writing",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"210",
+        "subject":"MCOM"
+      },
+      {
+        "code":"253",
+        "subject":"MCOM"
+      }
+    ]
+  },
+  {
+    "code": "311",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUED",
+    "taken": false,
+    "name": "Research and Assessment Methods in Music Education",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+       {
+        "code":"111",
+        "subject":"MUED"
+      },
+      {
+       "code":"211",
+       "subject":"MUED"
+     }
+    ]
+  },
+  {
+    "code": "333",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "NURS",
+    "taken": false,
+    "name": "Professional Nursing II: Issues",
+    "group": "Core 9",
+    "prereq": [    
+      {
+      "code":"102",
+      "subject":"ENGL"
+    }
+  ]
+  },
+  {
+    "code": "313",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PSYC",
+    "taken": false,
+    "name": "Research Design & Statistical Analysis",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"212",
+        "subject":"PSYC"
+      }
+    ]
+  },
+  {
+    "code": "314",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PSYC",
+    "taken": false,
+    "name": "Research Methods in Psychology",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"101",
+        "subject":"PSYC"
+      },
+      {
+        "code":"212",
+        "subject":"PSYC"
+      }
+    ]
+  },
+  {
+    "code": "300",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Sociological Analysis",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"101",
+        "subject":"SOCI"
+      }
+    ]
+  },
+  {
+    "code": "417",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPPA",
+    "taken": false,
+    "name": "Research and Clinical Writing in Communications Disorders",
+    "group": "Core 9",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      },
+      {
+        "code":"304",
+        "subject":"SPPA"
+      },
+      {
+        "code":"321",
+        "subject":"SPPA"
+      }
+    ]
+  },
+  {
+    "code": "315",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "AADS",
+    "taken": false,
+    "name": "Employment and Disability",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Family Resources",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "251",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Introduction to Urban Planning",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "350",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Urban Food Systems",
+    "group": "Core 10",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITEC",
+    "taken": false,
+    "name": "Metropolitan Information Technology Infrastructure",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MTRO",
+    "taken": false,
+    "name": "Introduction to Metropolitan Studies",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "304",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Politics of Metropolitan Growth",
+    "group": "Core 10",
+    "prereq": []
+  },
+  {
+    "code": "305",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Change Urban Government and Politics",
+    "group": "Core 10",
+    "prereq": [
+      {
+        "code":"103",
+        "subject":"POSC"
+      }
+    ]
+  },
+  {
+    "code": "209",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ANTH",
+    "taken": false,
+    "name": "Anthropology of American Culture",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CLST",
+    "taken": false,
+    "name": "Introduction to Cultural Studies",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CLST",
+    "taken": false,
+    "name": "Honors Introduction to Cultural Studies",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "254",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CRMJ",
+    "taken": false,
+    "name": "Introduction to Criminal Justice",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "315",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "American Families on Television",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "145",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of the U.S. to the Civil War",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "146",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of the U.S. since the Civil War",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "147",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Honors History of the U.S. to the Civil War",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "148",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Honors History of the U.S. Since the Civil War",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Wellness for a Diverse Society",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Honors Wellness for a Diverse Society",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "207",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Health Care in the U.S.",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "217",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Honors Health Care in the U.S",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "230",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: United States as a Nation",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "235",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Physical Wellness for a Healthy America",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "251",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "History of Sport in America",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Music in the U.S.: Analytic Emphasis",
+    "group": "Core 11",
+    "prereq": [
+      {
+        "code":"131",
+        "subject":"MUSC"
+      }
+    ]
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Hip-Hop Music and Culture",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "American National Government",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "207",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "State Government",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "209",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Introduction to Law",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "212",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Honors in Political Science",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "343",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "African-American Politics",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Christianities in America ",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "225",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "American Jewish Humor ",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "210",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Sociology of Sport",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Introduction to American Theater",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "235",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "WMST",
+    "taken": false,
+    "name": "American Women & Popular Culture",
+    "group": "Core 11",
+    "prereq": []
+  },
+  {
+    "code": "207",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ANTH",
+    "taken": false,
+    "name": "Cultural Anthropology",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "210",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ANTH",
+    "taken": false,
+    "name": "Honors Cultural Anthropology",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"ARAB"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"ARAB"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARAB",
+    "taken": false,
+    "name": "Arabic Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "107",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Art: Themes, Dreams and Visions",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ASST",
+    "taken": false,
+    "name": "Introduction to Asian Studies ",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Elementary Chinese II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"CHNS"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Chinese Composition & Conversation I",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"CHNS"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CHNS",
+    "taken": false,
+    "name": "Chinese Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "125",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "Dance: Global Perspectives",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "241",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Major Works of World Literature",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "248",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Literature of Global Perspectives",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FORL",
+    "taken": false,
+    "name": "Swahili Elements II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FORL",
+    "taken": false,
+    "name": "Intermediate Swahili II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "French Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"FREN"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "French Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"FREN"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FREN",
+    "taken": false,
+    "name": "Advanced Composition",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"FREN"
+      },      {
+        "code":"202",
+        "subject":"FREN"
+      }
+    ]
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "World Regional Geography",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Geography of International Affairs",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "109",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Introduction to Human Geography",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "110",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Honors Intro to Human Geography",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "112",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GEOG",
+    "taken": false,
+    "name": "Honors World Regional Geography",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"GERM"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"GERM"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GERM",
+    "taken": false,
+    "name": "German Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"301",
+        "subject":"GERM"
+      }
+    ]
+  },
+  {
+    "code": "104",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GRK",
+    "taken": false,
+    "name": "Ancient Greek Elements II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "GRK",
+    "taken": false,
+    "name": "Ancient Greek Intermediate II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Elements of Hebrew II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"HEBR"
+      }
+    ]
+  },
+  {
+    "code": "104",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Biblical Hebrew II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Hebrew Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"HEBR"
+      }
+    ]
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Biblical Hebrew IV",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HEBR",
+    "taken": false,
+    "name": "Hebrew Composition & Conversation",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "110",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "East Asian Civilization to 19th Century",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "111",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Modern East Asia since 19th Century",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "117",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Islamic History",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "118",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Modern Middle East History",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "121",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Latin America: Colonial Period",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "122",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Latin America: National Period",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "135",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of Africa to 1900",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "136",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "History of Africa Since 1900",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "160",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "World History Before 1300",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "161",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "World History Since 1300",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "243",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Global Perspectives",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"ITAL"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"ITAL"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ITAL",
+    "taken": false,
+    "name": "Italian Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"202",
+        "subject":"ITAL"
+      }
+    ]
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Elements II",
+    "group": "Core 12",
+    "prereq": [     
+       {
+      "code":"101",
+      "subject":"JPNS"
+    }
+  ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"JPNS"
+      }
+    ]
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "JPNS",
+    "taken": false,
+    "name": "Japanese Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"202",
+        "subject":"JPNS"
+      }
+    ]
+  },
+  {
+    "code": "285",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "KNES",
+    "taken": false,
+    "name": "Sport: Cross-Cultural Perspective",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "100",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LAST",
+    "taken": false,
+    "name": "Latin America: Issues & Approaches",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Latin Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"LATN"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Latin Intermediate II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LATN",
+    "taken": false,
+    "name": "Advanced Readings in Latin II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Music Cultures of the World",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "112",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "World Music: Americas, Africa, W Euro",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "OCTH",
+    "taken": false,
+    "name": "Alternative and Complimentary Health Care",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "219",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Introduction to Asian Philosophy",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PORT",
+    "taken": false,
+    "name": "Portuguese Elements II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PORT",
+    "taken": false,
+    "name": "Portuguese Intermediate II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Governments of the World",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "107",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Introduction to International Relations",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "108",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "POSC",
+    "taken": false,
+    "name": "Honors Intro to International Relations",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "105",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to the Study of Religion",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Islam",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "207",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Buddhism",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "208",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Hinduism",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RUSS",
+    "taken": false,
+    "name": "Russian Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"RUSS"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RUSS",
+    "taken": false,
+    "name": "Russian Intermediate II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "102",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish Elements II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"SPAN"
+      }
+    ]
+  },
+  {
+    "code": "202",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish Intermediate II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"SPAN"
+      }
+    ]
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Honors Spanish Intermediate II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "302",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish Composition & Conversation II",
+    "group": "Core 12",
+    "prereq": [
+      {
+        "code":"301",
+        "subject":"LATN"
+      }
+    ]
+  },
+  {
+    "code": "304",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SPAN",
+    "taken": false,
+    "name": "Spanish for Heritage Speakers II",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "233",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "WMST",
+    "taken": false,
+    "name": "International Perspectives of Women",
+    "group": "Core 12",
+    "prereq": []
+  },
+  {
+    "code": "201",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "AFST",
+    "taken": false,
+    "name": "Main Themes in African & American Studies",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "108 ",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ARTH",
+    "taken": false,
+    "name": "Introduction to Non-Western Art",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "210",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DANC",
+    "taken": false,
+    "name": "The Gender Dance",
+    "group": "Core 13",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "DFST",
+    "taken": false,
+    "name": "Introduction to Deaf Studies",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "203",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EDUC",
+    "taken": false,
+    "name": "Teaching and Learning in a Diverse Society",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EMF",
+    "taken": false,
+    "name": "Women and Gender in Film & Media",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "210",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "EMF",
+    "taken": false,
+    "name": "African-American Cinema",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "233",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Survey of African-American Literature",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "234",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Major Writers in African-American Literature",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "235",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Ethnic-American Literature",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "239",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Modern Jewish Literature",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "310",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "LGBT Families",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "311",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "African-American Families ",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "360",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Diversity Culture and Team Dynamics",
+    "group": "Core 13",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"SOCI"
+      }
+    ]
+  },
+  {
+    "code": "325",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FORL",
+    "taken": false,
+    "name": "Stories of Migration ",
+    "group": "Core 13",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "220",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HLTH",
+    "taken": false,
+    "name": "Sexuality in a Diverse Society",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "240",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Diversity and Difference",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "300",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "IDHP",
+    "taken": false,
+    "name": "Individuals on the Autism Spectrum",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "101",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "LGBT",
+    "taken": false,
+    "name": "Introduction to LGBT Studies",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Women in Western Music",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "416",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "NURS",
+    "taken": false,
+    "name": "Cultural Diversity in Health Care",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "204",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Race, Class and Gender",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Women in World Religion",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "206",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Judaism, Christianity, and Islam",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "209",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Religious Traditions of Asia",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "210",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Introduction to Judaism",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "241",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Blacks in America: Myths and Reality",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "243",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "SOCI",
+    "taken": false,
+    "name": "Sociology of Race, Class and Gender",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "303",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Cultural Diversity in Contemporary Theatre",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "304",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Honors Cultural Diversity in Contemporary Theatre",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "316",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Theatre of Crossing Cultures",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "380",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Topics in Diversity",
+    "group": "Core 13",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "231",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "WMST",
+    "taken": false,
+    "name": "Women in Perspective",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "232",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "WMST",
+    "taken": false,
+    "name": "Honors Women in Perspective",
+    "group": "Core 13",
+    "prereq": []
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ASTR",
+    "taken": false,
+    "name": "Cosmic Origins",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "306",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "BIOL",
+    "taken": false,
+    "name": "Human Ecology & Sustainability",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"105",
+        "subject":"BIOL"
+      },
+      {
+        "code":"115",
+        "subject":"BIOL"
+      },
+      {
+        "code":"191",
+        "subject":"BIOL"
+      },
+      {
+        "code":"206",
+        "subject":"BIOL"
+      }
+    ]
+  },
+  {
+    "code": "311",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "CLST",
+    "taken": false,
+    "name": "Science, Technology and Culture",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"201",
+        "subject":"CLST"
+      }
+    ]
+  },
+  {
+    "code": "418",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "COSC",
+    "taken": false,
+    "name": "Societal & Ethical Concerns of Computer Science",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"317",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "301",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "ENGL",
+    "taken": false,
+    "name": "Rhetoric and Science",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "325",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "FMST",
+    "taken": false,
+    "name": "Ethics in Human Service",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"101",
+        "subject":"FMST"
+      }
+    ]
+  },
+  {
+    "code": "441",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HCMN",
+    "taken": false,
+    "name": "Legal and Ethical Issues in Health Administration",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"207",
+        "subject":"HCMN"
+      }
+    ]
+  },
+  {
+    "code": "200",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Introduction to Human Rights ",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "205",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Ethical Perspectives in History",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "330",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HIST",
+    "taken": false,
+    "name": "Ethical Dilemmas in History of Science and Technology",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "345",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "HONR",
+    "taken": false,
+    "name": "Honors Seminar: Ethical Issues and Perspectives",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "325",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "IDHP",
+    "taken": false,
+    "name": "Ethics and Healthcare for the Professional",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "482",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MNGT",
+    "taken": false,
+    "name": "Business Ethics and Sustainability",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"301",
+        "subject":"BUSX"
+      }
+    ]
+  },
+  {
+    "code": "355",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "MUSC",
+    "taken": false,
+    "name": "Ethics Issues & Perspectives in Music",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "103",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Introduction to Ethics",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "212",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Honors: Special Studies in Philosphy ",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "255",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Environmental Ethics",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "342",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "What Makes Us Moral",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "361",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Biomedical Ethics",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "305",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Faith Perspective in Medical Ethics",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "310",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Jewish Law and Ethics ",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "340",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Plato's Ethics ",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "371",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "PHIL",
+    "taken": false,
+    "name": "Business Ethics ",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "313",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "RLST",
+    "taken": false,
+    "name": "Islamic Ethics",
+    "group": "core 14",
+    "prereq": []
+  },
+  {
+    "code": "304",
+    "labCourse": [],
+    "credits": "E",
+    "subject": "SCED",
+    "taken": false,
+    "name": "Education, Ethics and Change ",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "310",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "THEA",
+    "taken": false,
+    "name": "Theater for Social Change",
+    "group": "core 14",
+    "prereq": [
+      {
+        "code":"102",
+        "subject":"ENGL"
+      }
+    ]
+  },
+  {
+    "code": "382",
+    "labCourse": [],
+    "credits": "3",
+    "subject": "WMST",
+    "taken": false,
+    "name": "Christian Sexual Ethics",
+    "group": "core 14",
+    "prereq": []
+  }
+]
