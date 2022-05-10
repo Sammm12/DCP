@@ -12,8 +12,8 @@
         <script>
             var calls = 0;
             function myFunction() {
-                if (calls < 13) {
-                    const node = document.getElementById('proto1');
+                if (calls < 12) {
+                    const node = document.getElementById('proto');
                     const clone = node.cloneNode(true);
                     const nodeAdd = document.getElementById('addOne');
                     const cloneAdd = nodeAdd.cloneNode(true);
@@ -23,7 +23,7 @@
                     document.getElementById("main").appendChild(cloneAdd);
                     calls++;
                 }
-                else if (calls == 13) {
+                else if (calls == 12) {
                     const node = document.getElementById('proto');
                     const clone = node.cloneNode(true);
                     const nodeAdd = document.getElementById('addOne');
@@ -34,16 +34,10 @@
                 }
             };
 
-            function removeThis1() {
-                const element = document.getElementById('proto');
-                element.remove();
+            function removeThis() {
+               var element = document.getElementById('proto');
+                   element.remove();
             }
-
-            function removeThis2() {
-                const element = document.getElementById('proto1');
-                element.remove();
-            }
-
             </script>
 
     </head>
@@ -51,10 +45,10 @@
 
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
-                <a id="backbtn" href="../HTML/index.html">
+                <a id="backbtn" href="../HTML/home.html">
                     <img src="../Res/Images/arrow-left-circle.svg" width="32" height="32">
                 </a>
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="../HTML/home.html">
                     <img src="../Res/Images/Logo.svg" alt="" width="250" height="80">
                 </a>
               <div class="collapse navbar-collapse">
@@ -63,9 +57,6 @@
             </div>
           </nav>
 
-
-
-
         <div id="main" class="row row-cols-1 row-cols-md-3 g-9">
             <div id="proto" class="col">
                 <div class="card">
@@ -73,7 +64,6 @@
                         <h5 class="card-title text-center">Spring 2022</h5>
                     </div>
                     <table class="table table-bordered">
-                        
                         <thead> </thead>
                         <tbody>
                             <tr>
@@ -105,14 +95,13 @@
                                 <td>3</td>
                             </tr>
                         </tbody>
-                            <button type="button" onclick="location.href='../HTML/SemesterBoard.html';" class="btn btn-primary btn-sm Edit"> Edit Semester</button>
-                            <button type="button" onclick="removeThis1()" class="btn btn-danger btn-sm Delete" width="32" height="32">Delete</button>
+                            <button type="button" onclick="location.href='../HTML/UI-SemesterBoard.html';" class="btn btn-primary btn-sm Edit"> Edit Semester</button>
+                            <button type="button" onclick="removeThis(this)" class="btn btn-danger btn-sm Delete" width="32" height="32">Delete</button>
                       </table>   
                 </div>
             </div>
 
-
-            <div id="proto1" class="col">
+            <div id="proto" class="col">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title text-center">Spring 2022</h5>
@@ -149,11 +138,53 @@
                                 <td>3</td>
                             </tr>
                         </tbody>
-                            <button type="button" onclick="location.href='../HTML/SemesterBoard.html';" class="btn btn-primary btn-sm Edit"> Edit Semester</button>
-                            <button type="button" onclick="removeThis2()" class="btn btn-danger btn-sm Delete" width="32" height="32">Delete</button>
-                      </table>
+                            <button type="button" onclick="location.href='../HTML/UI-SemesterBoard.html';" class="btn btn-primary btn-sm Edit"> Edit Semester</button>
+                            <button type="button" onclick="removeThis(this)" class="btn btn-danger btn-sm Delete" width="32" height="32">Delete</button>
+                      </table>   
                 </div>
-                
+            </div>
+
+            <div id="proto" class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Spring 2022</h5>
+                    </div>
+                    <table class="table table-bordered">
+                        <thead> </thead>
+                        <tbody>
+                            <tr>
+                                <th>Course</th>
+                                <th>Credit</th>
+                            </tr>
+                            <tr>
+                                <td>COMM 100</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 273</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 289</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 229</td>
+                                <td>3</td>
+                            </tr>
+                            <tr>
+                                <td>MATH 329</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>COSC 334</td>
+                                <td>3</td>
+                            </tr>
+                        </tbody>
+                            <button type="button" onclick="location.href='../HTML/UI-SemesterBoard.html';" class="btn btn-primary btn-sm Edit"> Edit Semester</button>
+                            <button type="button" onclick="removeThis(this)" class="btn btn-danger btn-sm Delete" width="32" height="32">Delete</button>
+                      </table>   
+                </div>
             </div>
         
             ‎
