@@ -1,0 +1,166 @@
+.UI-SemesterBoard {
+    position: relative;
+
+    height: 1024px;
+    background: linear-gradient(180deg, #FFBB00 21.88%, #000000 93.75%);
+    background-attachment: fixed;
+}
+
+.Table {
+    background: #FFEAC1;
+    border-radius: 30px;
+}
+
+.DCP {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 94px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    background: rgba(51, 51, 51, 0.2);
+}
+
+.TotalCredits {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 94px;
+    text-align: start;
+    color: #000000;
+}
+
+.Greeting {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 94px;
+    text-align: end;
+    color: #000000;
+}
+
+.Course {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    border: 1px solid #000000;
+    border-left: none;
+}
+
+.Subheading {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    width: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.Semester {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    width: auto;
+    align-items: center;
+    text-align: start;
+}
+
+.ClassCredits {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    border: 1px solid #000000;
+    border-right: none;
+}
+
+.SemesterCredits {
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    width: auto;
+    align-items: center;
+}
+
+#overlay {
+    position: fixed;
+    display: none; 
+    width: 100%; 
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); 
+    z-index: 2;
+  }
+
+#pop {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.navbar {
+    background-color: #FFBB00;
+    height: 3em;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 2em;
+    transform: translate(-50%, -50%);
+}
+
+#backbtn {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+}
+
+#user {
+    position: absolute;
+    top: 1.5em;
+    right: 2em;
+    text-align: right;
+    font-family: 'EB Garamond';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+input[type=text]{
+    background: gray;
+    width: 60%;
+}
+button[type=submit]{
+    float: right;
+}
+label{
+    text-align: center;
+    width: 100%;
+}

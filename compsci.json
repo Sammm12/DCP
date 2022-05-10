@@ -1,0 +1,941 @@
+[
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "CIS",
+    "code": "377",
+    "name": "INTRODUCTION TO CYBERSECURITY",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "COSC",
+    "code": "237",
+    "name": "INTRODUCTION TO COMPUTER SCIENCE II",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      },
+      {
+        "subject": "MATH",
+        "code": "273"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "COSC",
+    "code": "336",
+    "name": "DATA  STRUCTURES  AND ALGORITHM  ANALYSIS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "237"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "412",
+    "name": "SOFTWARE ENGINEERING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "455",
+    "name": "PROGRAMMING LANGUAGES: DESIGN & IMPLEMENTATION",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "273",
+    "name": "CALCULUS I",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "119"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "330",
+    "name": "INTRODUCTION TO STATISTICAL METHODS",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "432",
+    "name": "REQUIREMENTS ANALYSIS & MODELING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "432"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "459",
+    "name": "COMPUTER SIMULATION & MODELING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      },
+      {
+        "subject": "MATH",
+        "code": "330"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "467",
+    "name": "FOUNDATIONS OF DATA MINING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "457"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "483",
+    "name": "DESIGN & ANALYSIS ALGORITHMS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "397",
+    "name": "INTERNSHIP IN COSC",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "1-3",
+    "subject": "COSC",
+    "code": "495",
+    "name": "INDEPENDENT STUDY",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "435",
+    "name": "MOBILE APPLICATION DEVELOPMENT",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "442",
+    "name": "SOFTWARE QUALITY ASSURANCE AND TESTING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "412"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "458",
+    "name": "APPLICATION SOFTWARE SECURITY",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "340"
+      },
+      {
+        "subject": "COSC",
+        "code": "455"
+      },
+      {
+        "subject": "COSC",
+        "code": "457"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "484",
+    "name": "WEB-BASED PROGRAM",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "ASTR",
+    "code": "181",
+    "name": "STARS, GALAXIES, AND THE EARLY UNIVERSE",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "BIOL",
+    "code": "202",
+    "name": "INTRODUCTION TO ECOLOGY AND EVOLUTION",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {
+        "subject": "CHEM",
+        "code": "131L"
+      }
+    ],
+    "credits": "3",
+    "subject": "CHEM",
+    "code": "132",
+    "name": "GENERAL CHEMISTRY II LECTURE",
+    "prereq": [
+      {
+        "subject": "CHEM",
+        "code": "131"
+      },
+      {
+        "subject": "CHEM",
+        "code": "131L"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "PHYS",
+    "code": "241",
+    "name": "GENERAL PHYSICS I CALCULUS-BASED",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "265",
+    "name": "ELEMENTARY  LINEAR  ALGEBRA",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "273"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "314",
+    "name": "INTRODUCTION TO CRYPTOGRAPHY",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "369",
+    "name": "INTRODUCTION TO ABSTRACT ALGEBRA",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "267"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "377",
+    "name": "MATHEMATICAL MODELS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      },
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "435",
+    "name": "NUMERICAL ANALYSIS I",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      },
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "451",
+    "name": "GRAPH THEORY",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "267"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "418",
+    "name": "ETHICAL AND SOCIETAL CONCERNS OF COMPUTER SCIENTISTS",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "COSC",
+    "code": "236",
+    "name": "INTRODUCTION TO COMPUTER SCIENCE I",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "175"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "COSC",
+    "code": "290",
+    "name": "PRINCIPLES OF COMPUTER ORGANIZATION",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      },
+      {
+        "subject": "MATH",
+        "code": "267"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "350",
+    "name": "DATA COMMUNICATIONS AND NETWORKING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "290"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "439",
+    "name": "OPERATING SYSTEMS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "457",
+    "name": "DATABASE MANAGEMENT SYSTEMS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3-4",
+    "subject": "MATH",
+    "code": "263",
+    "name": "DISCRETE MATHEMATICS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3-4",
+    "subject": "MATH",
+    "code": "267",
+    "name": "INTRODUCTION TO ABSTRACT MATHEMATICS",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "273"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "274",
+    "name": "CALCULUS II",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "273"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "417",
+    "name": "INTRODUCTION TO THE THEORY OF COMPUTING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "436",
+    "name": "OBJECT-ORIENTED DESIGN & PROGRAMMING",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "461",
+    "name": "ARTIFICIAL INTELLIGENCE",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "subject": "COSC",
+    "credits": "3",
+    "code": "471",
+    "name": "COMPUTER GRAPHICS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "1-3",
+    "subject": "COSC",
+    "code": "431",
+    "name": "SELECTED TOPICS COMPUTER SCIENCE",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "440",
+    "name": "OPERATING SYSTEMS SECURITY",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "439"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "450",
+    "name": "NETWORK SECURITY",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "314"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COSC",
+    "code": "465",
+    "name": "ROBOTICS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "336"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "ASTR",
+    "code": "161",
+    "name": "THE SKY AND THE SOLAR SYSTEM",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {
+        "subject": "BIOL",
+        "code": "200L"
+      }
+    ],
+    "credits": "4",
+    "subject": "BIOL",
+    "code": "200",
+    "name": "BIOLOGY I: INTRODUCTION TO CELLULAR BIOLOGY AND GENETICS LECTURE",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "102"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {
+        "subject": "CHEM",
+        "code": "131L"
+      }
+    ],
+    "credits": "4",
+    "subject": "CHEM",
+    "code": "131",
+    "name": "GENERAL CHEMISTRY I LECTURE",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "GEOL",
+    "code": "121",
+    "name": "PHYSICAL GEOLOGY",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "PHYS",
+    "code": "242",
+    "name": "GENERAL PHYSICS II CALCULUS-BASED",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "275",
+    "name": "CALCULUS III",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "4",
+    "subject": "MATH",
+    "code": "315",
+    "name": "APPLIED COMBINATORICS",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "267"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "374",
+    "name": "DIFFERENTIAL EQUATIONS",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "274"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "378",
+    "name": "EXPERIMENTAL MATHEMATICS",
+    "prereq": [
+      {
+        "subject": "COSC",
+        "code": "236"
+      },
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "274"
+      },
+      {
+        "subject": "MATH",
+        "code": "267"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "MATH",
+    "code": "437",
+    "name": "OPERATIONS RESEARCH",
+    "prereq": [
+      {
+        "subject": "MATH",
+        "code": "265"
+      },
+      {
+        "subject": "MATH",
+        "code": "331"
+      }
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "COMM",
+    "code": "131",
+    "name": "PUBLIC SPEAKING",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  },
+  {
+    "lab course": [
+      {}
+    ],
+    "credits": "3",
+    "subject": "ENGL",
+    "code": "317",
+    "name": "WRITING FOR BUSINESS AND INDUSTRY",
+    "prereq": [
+      {}
+    ],
+    "taken": "false"
+  }
+]
