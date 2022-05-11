@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Auth API</title>
+
+    <!-- <script src="/index.js"></script>
+    <script src="/models/user.js"></script>
+    <script src="routes/auth.js"></script>
+    <script src="/middleware.js"></script> -->
+    <script src="/testing.js"></script>
+</head>
+
+<body>
+    <div>
+        <h1>Signup</h1>
+        <form action="javascript:signup(email.value, password.value)" onsubmit="">
+            <input type="email" name="email" id="email" placeholder="email">
+            <hr>
+            <input type="password" name="password" id="password" placeholder="password">
+            <hr>
+            <input type="submit" value="submit">
+        </form>
+    </div>
+    <br>
+    <br>
+    <div>
+        <h1>Login</h1>
+        <form action="" onsubmit="return login()">
+            <input type="email" name="email" id="email" placeholder="email">
+            <hr>
+            <input type="password" name="password" id="password" placeholder="password">
+            <hr>
+            <input type="submit" value="submit">
+        </form>
+    </div>
+</body>
+
+</html>
